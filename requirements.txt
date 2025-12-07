@@ -8,3 +8,4 @@ nbformat==5.10.4
 numpy==2.1.0
 ydata-profiling==4.17.0
 jupyter-contrib-nbextensions==0.7.0
+kneed==0.8.5
